@@ -59,7 +59,7 @@ Hey there! I’m Fadel, a software engineer and full-stack developer who loves l
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 # 📈 My GitHub stats
-[comment]: <> (![](https://github-readme-stats-fadel-hassans-projects.vercel.app/api?username=iiFadel&show_icons=true&theme=transparent))
+[comment]: <> (https://github-readme-stats-fadel-hassans-projects.vercel.app/api?username=iiFadel&show_icons=true&theme=transparent)
 
 
 
