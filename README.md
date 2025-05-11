@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 
-Hey there! I’m Fadel, a software engineer and full-stack developer who loves learning and exploring new things. Whether it’s designing, building apps, or experimenting with machine learning, I’m all about diving into the latest tech and creating meaningful applications.
+Hey there! I’m Fadel, a software engineer and AI developer.
+Brewing ideas, coding intelligence.
 
 ## 🌐 Socials:
 
