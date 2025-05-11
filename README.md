@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hey there! I’m Fadel, a software engineer and AI developer.
+Hey there! I’m Fadel, a software engineer and AI developer.\n
 Brewing ideas, coding intelligence.
 
 ## 🌐 Socials:
