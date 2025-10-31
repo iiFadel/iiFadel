@@ -1,7 +1,3 @@
-![Header](./github-header-image-7.png)
-
-# 💫 About Me:
-
 Hey there! I’m Fadel, a software engineer and AI developer.
 
 
