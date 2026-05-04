@@ -64,5 +64,5 @@ Software Engineer & AI Engineer, building full-stack web apps, multi-agent AI sy
 
 ## 📊 GitHub Stats
 
-![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsFadel&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFadel&layout=compact&theme=tokyonight&hide_border=true)
+![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiFadel&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiFadel&layout=compact&theme=tokyonight&hide_border=true)
