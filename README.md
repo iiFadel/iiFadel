@@ -60,9 +60,3 @@ Software Engineer & AI Engineer, building full-stack web apps, multi-agent AI sy
 - 🟢 **NVIDIA-Certified Associate** — Generative AI Multimodal *(Feb 2025)*
 - 🟠 **AWS Certified Cloud Practitioner** *(Oct 2024)*
 
----
-
-## 📊 GitHub Stats
-
-![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiFadel&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiFadel&layout=compact&theme=tokyonight&hide_border=true)
