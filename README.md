@@ -56,7 +56,7 @@ Software Engineer & AI Engineer, building full-stack web apps, multi-agent AI sy
 
 ## 📜 Certifications
 
-- 🟢 **NVIDIA-Certified Associate** — Generative AI and LLMs *(Jun 2025)*
+- 🟢 **NVIDIA-Certified Professional** — Generative AI and LLMs *(Jun 2026)*
 - 🟢 **NVIDIA-Certified Associate** — Generative AI Multimodal *(Feb 2025)*
 - 🟠 **AWS Certified Cloud Practitioner** *(Oct 2024)*
 
