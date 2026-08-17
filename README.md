@@ -4,6 +4,7 @@ Software Engineer & AI Engineer, building full-stack web apps, multi-agent AI sy
 
 🌐 **[itsfadel.com](https://www.itsfadel.com)** &nbsp;•&nbsp; 📫 Fadel.ha@outlook.com
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.itsfadel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsfadel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fadel.ha@outlook.com)
